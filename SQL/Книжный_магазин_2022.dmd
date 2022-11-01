@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Книжный_магазин_2022" id="049EFB4F-BC3E-E0EF-8678-F8B02BEF71CA" version="3.5">
+<createdBy>kupri</createdBy>
+<createdTime>2021-12-15 08:50:18 UTC</createdTime>
+<ownerDesignName>КНИЖНЫЙ МАГАЗИН</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>049EFB4F-BC3E-E0EF-8678-F8B02BEF71CA</designId>
+</OSDM_Design>
